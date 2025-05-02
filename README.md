@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/Liaden-bot"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=Nemesis-+MD+by+Liaden+2025+best+repository.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="ARCH-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="NEMESIS-MD" src="https://img.shields.io/badge/DONT FORGET TO LEAVE A STAR 🌟 ¡THANKS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 </p>
 
 <p align="center">   
@@ -18,9 +18,9 @@
 
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ednutmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: liadenmusic@gmail.com)
 [![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ednut_x)
-[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348102487241)
+[![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347051992023)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ednuthimself)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Ednut001)
 </div>
